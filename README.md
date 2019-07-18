@@ -1,4 +1,4 @@
-# corey-express-boilerplate
+# express-store-corey
 
 # Express Boilerplate!
 
